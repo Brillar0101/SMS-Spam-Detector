@@ -4,7 +4,7 @@
 This project involves building a machine learning model to detect SMS spam using TensorFlow. It employs several deep learning techniques and models to distinguish between "ham" (non-spam) and "spam" messages, enhancing the filtering capabilities of SMS applications.
 
 ## Dataset
-The SMS Spam Detection Dataset used in this project contains labeled messages as either "spam" or "ham." The dataset can be found at this [link](link-to-dataset).
+The SMS Spam Detection Dataset used in this project contains labeled messages as either "spam" or "ham." The dataset can be found at this [link](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
 
 ## Models and Techniques
 - **Baseline Model**: Uses TF-IDF vectorization and Multinomial Naive Bayes algorithm.
